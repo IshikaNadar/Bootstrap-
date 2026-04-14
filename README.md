@@ -37,4 +37,8 @@ Each demo is designed to be **clean, minimal, and practical** for recruiters, pe
 ## ⚡ How to Run
 1. Clone the repo:
    ```bash
-   git clone 
+   git clone https://github.com/IshikaNadar/Bootstrap-.git
+
+#Screenshots :
+<img width="1920" height="1080" alt="Screenshot (155)" src="https://github.com/user-attachments/assets/cf11abe5-cee3-40f7-940d-a50e90fb242b" />
+
